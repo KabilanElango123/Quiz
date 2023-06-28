@@ -21,8 +21,8 @@ It is django based quiz app for multiple choice questions.
   Make sure to have python version 3 install on you pc or laptop. 
   If not install it from [here](https://www.python.org) <br>
   **Clone repository** <br>
-  `https://github.com/sswapnil2/django-quiz-app.git`<br>
-  `cd django-quiz-app`
+  `https://github.com/KabilanElango123/Quiz.git`<br>
+  `cd Quiz`
   
 2) ### Installing dependencies 
   It will install all required dependies in the project.<br>
